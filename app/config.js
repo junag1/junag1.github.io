@@ -1,6 +1,6 @@
-export const websiteName = "FILL THIS IN";
-export const websiteDescription = "FILL THIS IN";
-export const githubUsername = "FILL THIS IN";
+export const websiteName = "Juna Gregersen";
+export const websiteDescription = "The personal website of Juna Gregersen.";
+export const githubUsername = "junag1";
 
 // computed values
 
